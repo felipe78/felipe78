@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @felipe78
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... music
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ... films
+- 💞️ I’m looking to collaborate on ...music
 - 📫 How to reach me ...
 
 <!---
